@@ -13,7 +13,7 @@ Based on [Geoffrey Huntley's Ralph pattern](https://ghuntley.com/ralph/).
 - One of the following AI coding tools installed and authenticated:
   - [Amp CLI](https://ampcode.com) (default)
   - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (`npm install -g @anthropic-ai/claude-code`)
-  - [Gemini CLI](https://github.com/GoogleCloudPlatform/gemini-cli) (`npm install -g @google/gemini-cli`)
+  - [Gemini CLI](https://github.com/google-gemini/gemini-cli) (`npm install -g @google/gemini-cli`)
 - `jq` installed (`brew install jq` on macOS)
 - A git repository for your project
 
